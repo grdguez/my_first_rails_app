@@ -39,4 +39,4 @@ Things you may want to cover:
 # rails generate scaffold car make:string model:string year:integer
 # rails db:migrate
 * ...
-test
+test1
